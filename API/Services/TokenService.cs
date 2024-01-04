@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 using API.Entities;
 using API.Interfaces;
 using Microsoft.IdentityModel.Tokens;
-
 namespace API.Services
 {
     public class TokenService : ITokenService
