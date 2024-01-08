@@ -17,4 +17,5 @@ export class MemberListComponent implements OnInit {
     this.members$ = this.memberService.getMembers();
   }
 
+
 }
